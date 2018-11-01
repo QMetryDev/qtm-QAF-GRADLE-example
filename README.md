@@ -67,7 +67,7 @@ QMetry Test Management Gradle Plugin : Release : Demo Release
 QMetry Test Management Gradle Plugin : Cycle : Demo Cycle
 QMetry Test Management Gradle Plugin : Build : Demo Build
 QMetry Test Management Gradle Plugin : Platform : Chrome
-QMetry Test Management Gradle Plugin : Response : {"success":true,"code":"CO.IMPORT_SCHEDULED","data":[{"id":27670,"buildID":7150,"platformID":4808,"dropID":1407,"testsuiteId":"STR-TS-01","entityURL":"`https://testmanagement.qmetry.com/#/test-suite/92558`"}]}
+QMetry Test Management Gradle Plugin : Response : {"success":true,"code":"CO.IMPORT_SCHEDULED","data":[{"id":27670,"buildID":7150,"platformID":4808,"dropID":1407,"testsuiteId":"STR-TS-01","entityURL":"https://testmanagement.qmetry.com/#/test-suite/92558"}]}
 QMetry Test Management Gradle Plugin : Result file successfully uploaded!
 QMetry Test Management Gradle Plugin : Finished Post Build Action!
 ```
